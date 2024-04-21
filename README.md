@@ -1,5 +1,5 @@
 ## Simulasi Ujian TensorFlow 
-Simulasi Ujian TensorFlow Developer Certificate pada kelas Belajar Machine Learning untuk Pemula.
+Simulasi Ujian TensorFlow Developer Certificate pada kelas Simulasi Ujian TensorFlow Developer Certificate.
 
 ## Kriteria
 - Setiap kiriman adalah hasil karya Anda sendiri.
